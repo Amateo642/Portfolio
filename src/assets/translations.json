@@ -1,0 +1,186 @@
+{
+    "en": {
+      "translation": {
+        "header": {
+            "greetings": "Hello my beautiful people, i'm",
+            "amateo": "Amateo",
+            "developer": "Frontend Developer",
+            "scroll": "Scroll Down"
+        },
+
+        "cta": {
+            "download": "Download CV",
+            "talk": "Let's Talk"
+        },
+
+        "about": {
+          "header": "Get to know",
+          "me": "About me",
+          "experience": "Experience",
+          "practice": "2+ years practice",
+          "projects": "Projects",
+          "completed": "Many completed of varying complexity",
+          "text": "Graduated from Kalmyk State University with a degree in 'Information Technology'. Having worked in the banking sector, I came to the conclusion that I want to do what I like. I have always liked to deal with websites, their design. So I went back to basics and started taking courses to brush up on my student knowledge. Over time, my friends and acquaintances began to ask me to make projects for them. Design a landing page, a page with congratulations on the occasion of a birthday, a site for their store, a database of their favorite games, series or actors. Each time, seeing the joy and smiles of friends, accepting gratitude, I became more confident in my abilities. I decided to monetize my hobby. Why not, if everyone is happy.",
+          "talk": "Let's Talk"
+        },
+        
+        "experience": {
+          "header": "My Experience",
+          "skills": "What skills i have",
+          "frontend": "Frontend Developement",
+          "backend": "Backend Developement",
+          "experienced": "Experienced"
+        },
+
+        "services": {
+          "header": "Services",
+          "offer": "What i offer",
+          "design": {
+              "header": "Design",
+              "design": "Eye-pleasing design.",
+              "navigation": "Intuitive Navigation.",
+              "splashy": "Nothing extra, splashy.",
+              "structure": "Clear understanding of the structure.",
+              "integration": "Competent integration, without screaming advertisement.",
+              "friendly": "User-friendly."
+            },
+            "web": {
+              "header": "Web Development",
+              "safety": "Safety. I leave hints, but if the code does not require, your data will be in my private, working repository.",
+              "domain": "I'll pick the perfect domain for you.",
+              "deployment": "Competent deployment. You will not spend a fortune on maintaining the site.",
+              "clean": "Clean, readable code."
+            },
+            "content": {
+              "header": "Content Creation",
+              "idea": "There is just an idea? Don't worry, I'll create the rest.",
+              "visualize ": "Visualize all your wishes.",
+              "theme": "I'll pick a theme if you don't have the full picture ur site.",
+              "improved": "If I see that something can be improved, we are always in touch.",
+              "right": "You are always right. I never impose my professional view in conflict situations.",
+              "desire": "The main thing is your desire. I'll do the rest."
+            }
+        },
+
+        "contacts": {
+          "header": "Contact me",
+          "touch": "Get in touch",
+          "button": "Send Message",
+          "social": {
+            "email": "Email",
+            "telegram": "Telegram",
+            "instagram": "Instagram",
+            "message": "Send a message"
+          },
+          "mail": {
+            "name": "Your Full Name",
+            "email": "Your Email",
+            "message": "Your Message"
+          }
+        },
+
+        "footer": {
+            "home": "Home",
+            "about": "About",
+            "experience": "Experience",
+            "services": "Services",
+            "portfolio": "Portfolio",
+            "testimonials": "Testimonials",
+            "contact": "Contact",
+            "copyright": "All right reserved."
+        }
+      }
+    },
+    "ru": {
+      "translation": {
+        "header": {
+            "greetings": "Привет мои прекрасные люди, меня зовут",
+            "amateo": "Дмитрий Китляев",
+            "developer": "Frontend Разработчик",
+            "scroll": "Пролистать вниз"
+        },
+
+        "cta": {
+            "download": "Скачать резюме",
+            "talk": "Давайте поговорим"
+        },
+        
+        "about": {
+          "header": "Познакомимся",
+          "me": "Обо мне",
+          "experience": "Опыт",
+          "practice": "2+ года практики",
+          "projects": "Проекты",
+          "completed": "Много выполненных проектов, разной сложности",
+          "text": "Окончил Калмыцкий государственный университет по специальности 'Информационные технологии'. Поработав в банковской сфере, я пришел к выводу, что хочу заниматься любимым делом. Мне всегда нравилось заниматься веб-сайтами, их дизайном. Поэтому я вернулся к истокам и начал ходить на курсы, чтобы освежить свои студенческие знания. Со временем мои друзья и знакомые стали просить меня сделать для них проекты. Дизайн лендинга, страницы с поздравлениями по случаю дня рождения, сайт для их магазина, база данных любимых игр, сериалов или актеров. Каждый раз, видя радость и улыбки друзей, принимая благодарность, я становился увереннее в своих силах. Решил монетизировать свое хобби. Почему нет, если все счастливы.",
+          "talk": "Давайте поговорим"
+        },
+        
+        "experience": {
+          "header": "Мой опыт",
+          "skills": "Что я обычно использую",
+          "frontend": "Frontend Разработка",
+          "backend": "Backend Разработка",
+          "experienced": "Опытный"
+        },
+
+        "services": {
+          "header": "Услуги",
+          "offer": "Что я предлагаю",
+          "design": {
+              "header": "Дизайн",
+              "design": "Приятный глазу дизайн.",
+              "navigation": "Интуитивно понятная навигация.",
+              "splashy": "Ничего лишнего. Утонченно.",
+              "structure": "Четкое понимание структуры.",
+              "integration": "Грамотная интеграция, без кричащей рекламы.",
+              "friendly": "Дружелюбие к пользователю."
+            },
+            "web": {
+              "header": "Веб-разработка",
+              "safety": "Безопасность. Я оставляю подсказки, но если код не требует, ваши данные будут в моем приватном, рабочем репозитории.",
+              "domain": "Я подберу для вас идеальный домен.",
+              "deployment": "Грамотный деплой. Вы не потратите целое состояние на обслуживание сайта.",
+              "clean": "Чистый, читаемый код."
+            },
+            "content": {
+              "header": "Создание Контента",
+              "idea": "Есть только идея? Не волнуйтесь, предоставьте остальное мне.",
+              "visualize ": "Визуализирую все ваши пожелания.",
+              "theme": "Я выберу тему, если у вас нет полной картинки вашего сайта.",
+              "improved": "Если я вижу, что что-то можно улучшить, мы всегда на связи.",
+              "right": "Вы всегда правы. Я никогда не навязываю свою профессиональную точку зрения в конфликтных ситуациях.",
+              "desire": "Главное это ваше желание. Я сделаю все остальное."
+            }
+        },
+
+        "contacts": {
+          "header": "Мои контакты",
+          "touch": "Связаться",
+          "button": "Отправить Сообщение",
+          "social": {
+            "email": "Почта",
+            "telegram": "Телеграм",
+            "instagram": "Инстаграм",
+            "message": "Написать"
+          },
+          "mail": {
+            "name": "Полное Имя",
+            "email": "Почта",
+            "message": "Сообщение"
+          }
+        },
+
+        "footer": {
+          "home": "В начало",
+          "about": "Обо мне",
+          "experience": "Опыт",
+          "services": "Услуги",
+          "portfolio": "Портфолио",
+          "testimonials": "Отзывы",
+          "contact": "Контакты",
+          "copyright": "Все права защищены."
+      }
+      }
+    }
+}

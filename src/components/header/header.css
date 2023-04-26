@@ -10,6 +10,14 @@ header {
     position: relative;
 }
 
+.languages-btn {
+    position: absolute;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+    top: 0;   
+}
+
 /*-----------------------------CTA----------------------------*/
 
 .cta {

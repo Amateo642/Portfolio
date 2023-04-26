@@ -1,6 +1,6 @@
-import React from 'react'
-import "./portfolio.css"
-import IMG1 from '../../assets/portfolio 1.jpg'
+import React from 'react';
+import "./portfolio.css";
+import IMG1 from '../../assets/portfolio 1.jpg';
 
 const data = [
   {
@@ -14,7 +14,7 @@ const data = [
 
 const Portfolio = () => {
   return (
-    <section id='portfolio'>
+    <section id='portfolio' className='section'>
       <h5>My recent work</h5>
       <h2>Portfolio</h2>
 

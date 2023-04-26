@@ -1,6 +1,6 @@
-import React from 'react'
-import {AiOutlineInstagram, AiFillGithub} from 'react-icons/ai'
-import {FaTelegramPlane} from 'react-icons/fa'
+import React from 'react';
+import {AiOutlineInstagram, AiFillGithub} from 'react-icons/ai';
+import {FaTelegramPlane} from 'react-icons/fa';
 
 const HeaderSocials = () => {
   return (
