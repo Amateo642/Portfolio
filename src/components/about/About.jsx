@@ -6,7 +6,7 @@ import { MdOutlineTask } from 'react-icons/md';
 import { useTranslation } from 'react-i18next';
 
 const About = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   return (
     <section id='about' className='section'>
       <h5>{t("about.header")}</h5>

@@ -5,7 +5,7 @@ import { FaTelegramPlane } from 'react-icons/fa';
 import { useTranslation } from 'react-i18next';
 
 const Footer = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   return (
     <footer>
       <a href="#" className='footer__logo'>Amateo</a>

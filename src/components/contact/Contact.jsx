@@ -17,7 +17,7 @@ const Contact = () => {
     e.target.reset()
   };
 
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
 
   return (
     <section id='contact' className='section'>

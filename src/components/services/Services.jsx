@@ -4,7 +4,7 @@ import { AiOutlineCheck } from 'react-icons/ai';
 import { useTranslation } from 'react-i18next';
 
 const Services = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   return (
     <section id='services' className='section'>
       <h5>{t("services.offer")}</h5>

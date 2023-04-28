@@ -4,7 +4,7 @@ import { BsCheckCircle } from 'react-icons/bs';
 import { useTranslation } from 'react-i18next';
 
 const Experience = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   return (
     <section id='experience'>
       <h5>{t("experience.skills")}</h5>

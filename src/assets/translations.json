@@ -79,6 +79,28 @@
           }
         },
 
+        "testimonials": {
+          "header": "Testimonials",
+          "review": "Review from clients",
+          "clients": [
+            {
+              "name": "Iana Dorokhova",
+              "work": "International academy of television and radio (IATR)",
+              "review": "I want to express my gratitude to Dmitry. In a short time, he saved our project for children with disabilities 'Festival-Integration'. Literally in a week, he completely rewrote our site and managed to festival opening."
+            },
+            {
+              "name": "Svetlana Suhanova",
+              "work": "Russian public television (ОТР)",
+              "review": "Quality work, thank you very much. We will be happy to continue cooperation with you."
+            },
+            {
+              "name": "Shakira Nabiullina",
+              "work": "Scientific research company (Hydro Stone)",
+              "review": "I advise everyone. Very competent company. Best value for money."
+            }
+          ]
+        },
+
         "footer": {
             "home": "Home",
             "about": "About",
@@ -169,6 +191,28 @@
             "email": "Почта",
             "message": "Сообщение"
           }
+        },
+
+        "testimonials": {
+          "header": "Отзывы",
+          "review": "Слова клиентов",
+          "clients": [
+            {
+              "name": "Яна Дорохова",
+              "work": "Международная академия телевидения и радио (IATR)",
+              "review": "Хочу выразить благодарность Дмитрию. За короткое время, он спас наш проект для детей с ограниченными возможностями «Фестиваль-Интеграция». Буквально за неделю он полностью переписал наш сайт и успел к открытию фестиваля."
+            },
+            {
+              "name": "Светлана Суханова",
+              "work": "Российское общественное телевидение (ОТР)",
+              "review": "Качественная работа, большое спасибо. Будем рады продолжить с вами сотрудничество."
+            },
+            {
+              "name": "Шакира Набиуллина",
+              "work": "Научно-исследовательская компания (Hydro Stone)",
+              "review": "Всем рекомендую. Очень компетентная работа. Лучшее соотношение цены и качества."
+            }
+          ]
         },
 
         "footer": {

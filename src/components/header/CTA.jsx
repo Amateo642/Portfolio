@@ -3,7 +3,7 @@ import CV from '../../assets/cv.pdf';
 import { useTranslation } from 'react-i18next';
 
 const CTA = () => {
-  const { t, i18n } = useTranslation();
+  const { t } = useTranslation();
   return (
     <div className='cta'>
         <a href={CV} download className='btn'>{t('cta.download')}</a>
