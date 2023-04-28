@@ -62,21 +62,15 @@
             }
         },
 
-        "contacts": {
-          "header": "Contact me",
-          "touch": "Get in touch",
-          "button": "Send Message",
-          "social": {
-            "email": "Email",
-            "telegram": "Telegram",
-            "instagram": "Instagram",
-            "message": "Send a message"
-          },
-          "mail": {
-            "name": "Your Full Name",
-            "email": "Your Email",
-            "message": "Your Message"
-          }
+        "portfolio": {
+          "header": "Portfolio",
+          "recent": "My recent work",
+          "github": "Github",
+          "demo": "Live Demo",
+          "works": [
+            {"title": "K-pop - voting game, Beauty contest."},
+            {"title": "Books search app using Google books api."}
+          ]
         },
 
         "testimonials": {
@@ -99,6 +93,23 @@
               "review": "I advise everyone. Very competent company. Best value for money."
             }
           ]
+        },
+
+        "contacts": {
+          "header": "Contact me",
+          "touch": "Get in touch",
+          "button": "Send Message",
+          "social": {
+            "email": "Email",
+            "telegram": "Telegram",
+            "instagram": "Instagram",
+            "message": "Send a message"
+          },
+          "mail": {
+            "name": "Your Full Name",
+            "email": "Your Email",
+            "message": "Your Message"
+          }
         },
 
         "footer": {
@@ -176,21 +187,15 @@
             }
         },
 
-        "contacts": {
-          "header": "Мои контакты",
-          "touch": "Связаться",
-          "button": "Отправить Сообщение",
-          "social": {
-            "email": "Почта",
-            "telegram": "Телеграм",
-            "instagram": "Инстаграм",
-            "message": "Написать"
-          },
-          "mail": {
-            "name": "Полное Имя",
-            "email": "Почта",
-            "message": "Сообщение"
-          }
+        "portfolio": {
+          "header": "Портфолио",
+          "recent": "Мои проекты",
+          "github": "Гитхаб",
+          "demo": "Демонстрация",
+          "works": [
+            {"title": "К-поп это игра, где с помощью голосования, определяется победитель."},
+            {"title": "Приложение по поиску книг, создано с помощью апи Гугл книг."}
+          ]
         },
 
         "testimonials": {
@@ -215,6 +220,23 @@
           ]
         },
 
+        "contacts": {
+          "header": "Мои контакты",
+          "touch": "Связаться",
+          "button": "Отправить Сообщение",
+          "social": {
+            "email": "Почта",
+            "telegram": "Телеграм",
+            "instagram": "Инстаграм",
+            "message": "Написать"
+          },
+          "mail": {
+            "name": "Полное Имя",
+            "email": "Почта",
+            "message": "Сообщение"
+          }
+        },
+
         "footer": {
           "home": "В начало",
           "about": "Обо мне",
@@ -224,7 +246,7 @@
           "testimonials": "Отзывы",
           "contact": "Контакты",
           "copyright": "Все права защищены."
-      }
+        }
       }
     }
 }
