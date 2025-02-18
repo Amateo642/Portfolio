@@ -2,6 +2,8 @@ import React from 'react';
 import "./portfolio.css";
 import IMG1 from '../../assets/portfolio 1.jpg';
 import IMG2 from '../../assets/portfolio 2.jpg';
+import IMG3 from '../../assets/portfolio 3.jpg';
+import IMG4 from '../../assets/portfolio 4.jpg';
 import { useTranslation } from 'react-i18next';
 
 const data = [
@@ -18,6 +20,20 @@ const data = [
     title: 'Books search app using Google books api.',
     github: 'https://github.com/Amateo642/Library',
     demo: 'https://library-amateo642.vercel.app/'
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: 'Template bussiness CRM.',
+    github: 'https://github.com/Amateo642/react-admin-panel',
+    demo: 'https://react-admin-panel-neon.vercel.app/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Project of the agro-industrial complex VOHA.',
+    github: 'https://github.com/Amateo642/Voha',
+    demo: 'https://voha.vercel.app/'
   }
 ]
 
