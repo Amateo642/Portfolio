@@ -3,6 +3,7 @@ import "./testimonials.css";
 import CLIENT from '../../assets/client1.jpeg';
 import CLIENT2 from '../../assets/client2.jpg';
 import CLIENT3 from '../../assets/client3.jpg';
+import CLIENT4 from '../../assets/client4.jpg';
 import { useTranslation } from 'react-i18next';
 
 import { Pagination } from 'swiper';
@@ -17,6 +18,7 @@ const data = [
     CLIENT,
     CLIENT2,
     CLIENT3,
+    CLIENT4
 ]
 
 const Testimonials = () => {

@@ -2,16 +2,21 @@ header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 
 .header__container {
     text-align: center;
     height: 100%;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .languages-btn {
-    position: absolute;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -52,7 +57,6 @@ header {
     background: linear-gradient(var(--color-primary), transparent);
     width: 20rem;
     height: 22rem;
-    position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;

@@ -93,7 +93,12 @@
               "name": "Shakira Nabiullina",
               "work": "Scientific research company (Hydro Stone)",
               "review": "I advise everyone. Very competent company. Best value for money."
-            }
+            },
+            {
+              "name": "Ashot Matnishyan",
+              "work": "INNOVATIVE AGRO-INDUSTRIAL COMPLEX «VOHA»",
+              "review": "I'm grateful to Dmitry for the work done. High-quality site. The partners were satisfied."
+            } 
           ]
         },
 
@@ -220,6 +225,11 @@
               "name": "Шакира Набиуллина",
               "work": "Научно-исследовательская компания (Hydro Stone)",
               "review": "Всем рекомендую. Очень компетентная работа. Лучшее соотношение цены и качества."
+            },
+            {
+              "name": "Ашот Матнишян",
+              "work": "ИННОВАЦИОННЫЙ АГРОПРОМЫШЛЕННЫЙ КОМПЛЕКС «ВОХА»",
+              "review": "Благодарен Дмитрию, за проделанную работу. Качественный сайт. Партнеры остались довольны."
             }
           ]
         },
