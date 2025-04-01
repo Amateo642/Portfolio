@@ -4,6 +4,7 @@ import IMG1 from '../../assets/portfolio 1.jpg';
 import IMG2 from '../../assets/portfolio 2.jpg';
 import IMG3 from '../../assets/portfolio 3.jpg';
 import IMG4 from '../../assets/portfolio 4.jpg';
+import IMG5 from '../../assets/portfolio 5.jpg';
 import { useTranslation } from 'react-i18next';
 
 const data = [
@@ -34,6 +35,13 @@ const data = [
     title: 'Project of the agro-industrial complex VOHA.',
     github: 'https://github.com/Amateo642/Voha',
     demo: 'https://voha.vercel.app/'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Betting application template (MVP). Example test for a middle position.',
+    github: 'https://github.com/Amateo642/match-tracker',
+    demo: 'https://amateo642.github.io/match-tracker/'
   }
 ]
 

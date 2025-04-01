@@ -71,7 +71,8 @@
             {"title": "K-pop - voting game, Beauty contest."},
             {"title": "Books search app using Google books api."},
             {"title": "Template bussiness CRM."},
-            {"title": "Project of the agro-industrial complex VOHA."}
+            {"title": "Project of the agro-industrial complex VOHA."},
+            {"title": "Betting application template (MVP). Example test for a middle position."}
           ]
         },
 
@@ -203,7 +204,8 @@
             {"title": "К-поп это игра, где с помощью голосования, определяется победитель."},
             {"title": "Приложение по поиску книг, создано с помощью апи Гугл книг."},
             {"title": "Шаблон бизнес CRM."},
-            {"title": "Проект агропромышленного комплекса ВОХА."}
+            {"title": "Проект агропромышленного комплекса ВОХА."},
+            {"title": "Пример МВП бетинговых приложений. Тестовое задание на позицию Мидла"}
           ]
         },
 
